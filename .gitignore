@@ -2,3 +2,9 @@ backend/node_modules
 backend/yarn.lock
 frontend/node_modules
 frontend/yarn.lock
+desafio04-conceitos-do-reactive-native/node_modules
+desafio04-conceitos-do-reactive-native/yarn.lock
+mobile/node_modules
+mobile/yarn.lock
+typescript/node_modules
+typescript/yarn.lock
